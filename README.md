@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi bung ... 👋
 
 <!--
 **whyisn/whyisn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Github Stats 
+
+  [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=whyisn&show_icons=true&theme=transparent)](https://github.com/whyisn/whyisn)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyisn&layout=compact&langs_count=8&theme=transparent)](https://github.com/whyisn/whyisn)
